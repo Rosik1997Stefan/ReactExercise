@@ -1,0 +1,32 @@
+.App{
+  background: black;
+  width: 100%;
+}
+.Card{
+  margin-bottom: 100px;
+}
+h1,h2,h3,p{
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+.background-grey{
+  background-color: grey;
+}
+.background-green{
+  background-color: green;
+}
+.background-red{
+  background-color: red;
+}
+.SomePad{
+  padding: 50px;
+}
+.Search{
+  margin: 0 auto;
+  width: 25%;
+}
+input{
+  width: 100%;
+  text-align: center;
+}
